@@ -1,4 +1,4 @@
-## Hi there, I´m Eduardoo Denzer👋
+## Hi there, I´m Eduardo Denzer👋
 
 <!--
 **eduardodenzer-lab/Eduardodenzer-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
